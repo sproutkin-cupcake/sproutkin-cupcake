@@ -10,3 +10,25 @@
 me and my gng !!
 
 </div>
+
+<div align="center">
+  
+# DNI
+
+</div>
+
+<div align="center">
+  
+[pedho, rumors, ragebaits, manipulators + more(will be added more in the future) ] 
+
+</div>
+
+# Iwec 
+
+</div>
+
+<div align="center">
+  
+people above 20+. i have trust issue with most adults, also with people under 14-. 
+
+</div>
