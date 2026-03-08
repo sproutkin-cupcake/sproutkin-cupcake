@@ -6,6 +6,7 @@
 
 <div align="center">
   
-<a href="https://hits.sh/github.com/hiopes/"><img alt="Hits" src="https://hits.sh/github.com/hiopes.svg?color=2b911d&labelColor=652828"/></a>
+<img width="1650" height="720" alt="Image" src="https://github.com/user-attachments/assets/c0bd50df-3687-4f3b-a3a3-925646399046" />
+me and my gng !!
 
 </div>
