@@ -17,11 +17,10 @@ me and my gng !!
 
 </div>
 
-<div align="center">
-
 ---
 
+<div align="center">
 
-<img align="right" src="https://img.sanishtech.com/u/03f3cb0de9235a807d3b3ce4edb2d4ef.png" alt="My Image Alt Text" width="160"> follow my github !!
+<img align="right" src="https://img.sanishtech.com/u/03f3cb0de9235a807d3b3ce4edb2d4ef.png" alt="Alt Text" width="160" height="55"> follow my github !!
 
 </div>
