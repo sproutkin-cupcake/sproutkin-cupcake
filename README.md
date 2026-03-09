@@ -22,5 +22,6 @@ me and my gng !!
 <div align="center">
 
 <img align="right" src="https://img.sanishtech.com/u/03f3cb0de9235a807d3b3ce4edb2d4ef.png" alt="Alt Text" width="120" height="162">  ⁠✧ [atabook](https://sproutirl.atabook.org/) ⁠✧
+i do yume, doubles strictly dni !!
 
 </div>
