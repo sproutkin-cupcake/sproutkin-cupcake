@@ -18,25 +18,7 @@ me and my gng !!
 </div>
 
 <div align="center">
-  
-# DNI
 
-</div>
-
-<div align="center">
-  
-[pedho, rumors, ragebaits, manipulators + more(will be added more in the future) ] 
-
-</div>
-
-<div align="center">
-  
-# Iwec 
-
-</div>
-
-<div align="center">
-  
-people above 20+. i have trust issue with most adults, also with people under 14-. 
+<img align="right" src="https://image2url.com/r2/default/images/1773046905143-c9984e8a-e69a-491a-84c1-26c856ffd906.png" alt="My Image Alt Text" width="90"> follow my github !!
 
 </div>
