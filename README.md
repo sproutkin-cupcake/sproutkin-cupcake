@@ -19,6 +19,6 @@ me and my gng !!
 
 <div align="center">
 
-<img align="right" src="https://image2url.com/r2/default/images/1773046905143-c9984e8a-e69a-491a-84c1-26c856ffd906.png" alt="My Image Alt Text" width="90"> follow my github !!
+<img align="right" src="https://img.sanishtech.com/u/03f3cb0de9235a807d3b3ce4edb2d4ef.png" alt="My Image Alt Text" width="90"> follow my github !!
 
 </div>
