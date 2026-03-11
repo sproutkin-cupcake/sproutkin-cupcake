@@ -21,7 +21,7 @@ me and my gng !!
 
 <div align="center">
 
-<img align="right" src="https://img.sanishtech.com/u/03f3cb0de9235a807d3b3ce4edb2d4ef.png" alt="Alt Text" width="170" height="184">  ⁠✧ [atabook](https://sproutirl.atabook.org/) ⁠✧
+<img align="right" src="https://img.sanishtech.com/u/03f3cb0de9235a807d3b3ce4edb2d4ef.png" alt="Alt Text" width="170" height="184">  ⁠✧ [atabook](https://sproutirl.atabook.org/) ⁠✧ ⁠ [APOLOGY!!](https://docs.google.com/document/d/1_d5DRxPjoW5Be7TNhtns-7QASr_-94X3_cFVOMAC3CY/edit?usp=drivesdk) ✧
 
 </div> 
 
